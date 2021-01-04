@@ -59,13 +59,9 @@ sudo apt-get update && sudo apt-get upgrade -y
 - [map.pgm](/catkin_ws/src/pgm_map_creator/maps/map.pgm): Generated office map
 
 ## Run the project  
-* Clone this repository
-```
-git clone https://github.com/anyuguo/Robotics-Software-Engineer-Udacity/tree/master/P3-Where-Am-I.git
-```
+
 * Open the repository and make  
 ```
-cd /home/workspace/P3-Where-Am-I/catkin_ws/
 catkin_make
 ```
 * Launch my_robot in Gazebo to load both the world and plugins  
