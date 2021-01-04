@@ -4,10 +4,11 @@ Playing around with ROS and Gazebo ,Ball chasing robot.
 In this Project I have used Adaptive Monte Carlo Localization to make the robot move in a Gazebo environment.
 
 # RoboND-Term1-P3-Where-Am-I
-Project 3 of Udacity Robotics Software Engineer Nanodegree Program
-![Overview](https://github.com/Nikerane/localization/blob/master/AMCL_Video.mov)  
+AMCL Localizationon
+
 ## Overview  
-In this project you'll utilize ROS AMCL package to accurately localize a mobile robot inside a map in the Gazebo simulation environments. Here are the steps to learn several aspects of robotic software engineering with a focus on ROS:  
+In this project ROS AMCL package is used to localize a mobile robot inside a map in the Gazebo simulation environments. Few aims of this project are as follows:  
+
 * Create a ROS package that launches a custom robot model in a custom Gazebo world  
 * Utilize the ROS AMCL package and the Tele-Operation / Navigation Stack to localize the robot  
 * Explore, add, and tune specific parameters corresponding to each package to achieve the best possible localization results  
