@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-#Nikhil Rane
+# Teleop package used by Nikhil Rane
+
 from __future__ import print_function
 
 import threading

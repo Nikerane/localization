@@ -1,4 +1,3 @@
-Nikhil Rane
 # teleop_twist_keyboard
 Generic Keyboard Teleop for ROS
 
